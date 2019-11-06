@@ -3,6 +3,7 @@
 
 拥有dialog常用效果与popupwindow 在某个view的上下左右方位显示的特性
 
->dependencies {
->    implementation 'com.github.xianningqis:EasyDialog:0.0.1'
->}
+#### 集成步骤
+dependencies {
+    implementation 'com.github.xianningqis:EasyDialog:0.0.1'
+}
