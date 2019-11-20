@@ -7,3 +7,6 @@
     dependencies {
         implementation 'com.github.xianningqis:EasyDialog:0.0.1'
     }
+
+#### 详细文档
+请看转博客，https://blog.csdn.net/sinat_28864443/article/details/103162034
